@@ -5,3 +5,4 @@ first I want to learn git
 create a new branch is bad
 create a new branch is good
 dev
+fixbug
